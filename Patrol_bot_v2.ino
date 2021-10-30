@@ -27,8 +27,8 @@
 
 
 //Wifi Details
-char ssid[] = "Aaryansh_2.4GHz_EXT";    //  your network SSID (name) 
-char pass[] = "Ansh17@aarya12";   // your network password
+char ssid[] = "your network name";    //  your network SSID (name) 
+char pass[] = "your network password";   // your network password
 int status = WL_IDLE_STATUS; // Initial wifi status
 
 // Creating Wifi module to connect to
